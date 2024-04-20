@@ -22,6 +22,11 @@ body {
   margin: auto;
 }
 
+h2, h3 {
+  text-transform: uppercase;
+  padding: 8px 0;
+}
+
 
 .header__container {
   height: 70px;
@@ -44,12 +49,12 @@ body {
 
 .header__row {
   height: 2px;
-  background-color: black;
+  background-color: #000000;
 }
 
 h1 {
   font-family: digital-serial;
-  font-size: 48px;
+  font-size: 40px;
 }
 
 .row {
@@ -118,6 +123,21 @@ aside {
 
 }
 
+.rental__button {
+  margin-top: 15px;
+  background-color: #4F4894;
+  padding: 15px;
+  border-radius: 30px;
+}
+
+.rental__link {
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+}
+
 .contact__container {
   display: flex;
   flex-direction: column;
@@ -125,7 +145,7 @@ aside {
   justify-content: center;
   padding: 85px 0;
   background-color: #414141;
-  color: white;
+  color: #FFFFFF;
 }
 
 .contact__container h2 {

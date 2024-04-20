@@ -57,7 +57,8 @@
           <div class="rental__container">
             <div class="aside__container ">
               <h2>Marque sua quadra</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam architecto odio qui molestiae nesciunt ex, quibusdam quo, eum harum omnis quisquam odit ab, assumenda consequuntur distinctio reiciendis expedita soluta dolor?</p>
+              <p>Não quer burocracia na hora de marcar o seu horário? Acesse nossa plataforma para marcar o seu horário sem dificuldades, de forma intuitiva, fácil e rápida!</p>
+              <button class="rental__button"><a class="rental__link" href="https://gripo.app/reservar/padelsul-pelotas-rs" target="_blank">Reserve seu horário</a></button>
             </div>
             <div class="rental__placeholder"><img src="./assets/img/gripo.png" width="380px" alt="Gripo, nosso aplicativo de marcação de quadras"></div>
           </div>
